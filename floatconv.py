@@ -1,0 +1,2 @@
+s='sujan'
+print(s)
